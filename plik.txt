@@ -1,1 +1,4 @@
 zmiana w pliku
+
+
+dodanie nowej funkcjonalności
